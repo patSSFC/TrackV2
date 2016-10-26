@@ -1,0 +1,17 @@
+{
+  "name": "Track-V2",
+  "description": "Phase 2 of SODO Track",
+  "main": "server.js",
+  "authors": [
+    "Pat Yolian <pyolian@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/patSSFC/TrackV2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
